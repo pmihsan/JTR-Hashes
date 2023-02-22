@@ -1,0 +1,20 @@
+echo 
+echo "-------------------John The Ripper----------------------"
+echo 
+echo "Sample Hashes of"
+echo "\t1)MD4"
+echo "\t2)MD5"
+echo "\t3)MD5-NS"
+echo "\t4)MD5-CRYPT"
+echo "\t5)BCRYPT"
+echo "\t6)DES-CRYPT"
+echo "\t7)BSDI-CRYPT"
+echo "\t8)SHA1"
+echo "\t9)SHA256"
+echo "\t10)X-SHA"
+echo "\t11)SHA256-CRYPT"
+echo "\t12)SHA512-CRYPT"
+echo "\t13)LM"
+echo "\t14)NT"
+echo 
+echo "--------------------------------------------------------"
